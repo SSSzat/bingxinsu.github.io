@@ -1,21 +1,23 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Algorithm Intern**  
+**July 2024 – November 2024 | Institute of Automation, Chinese Academy of Sciences**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Participated in the development and rigorous testing of cutting-edge visual perception and decision-making modules for advanced AI systems.
+- Conducted comprehensive literature reviews and proposed innovative technical ideas tailored to real-world application scenarios.
+- Implemented and simulated complex algorithms to optimize system performance.
+Designed and executed impactful experiments, and assisted in writing manuscripts for top-tier conferences and journals.  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Software Test Engineer**  
+**November 2023 – December 2023 | Jiangyin Yungu Technology Co., Ltd.**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- Identified potential risks across functional modules, developed comprehensive test cases, and established a robust grading system for strict quality assessment.
+- Configured servers, attenuators and shielded boxes on virtual machines to simulate real-world operating conditions, and led the creation of over 10 core technical documents as essential testing references.
+- Performed thorough functional and performance testing using QA Load, SilkPerformer and LoadRunner; participated in more than 60 test projects and submitted over 800 bug reports to ensure full test coverage.
+- Implemented targeted troubleshooting to assist the development team in resolving bugs; conducted regression testing and analyzed issues to continuously optimize testing plans.
+- Ensured on-time project delivery with flawless operation that exceeded user expectations.
